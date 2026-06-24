@@ -10,7 +10,7 @@ I am a researcher at IDSIA (Istituto Dalle Molle di Studi sull'Intelligenza Arti
 
 Visit my website at:
 
-https://francesca_mangili.github.io
+https://mangilif.github.io
 
 ## Research Interests
 
